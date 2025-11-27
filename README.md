@@ -15,11 +15,6 @@ Users can enter any text or link, and the app instantly creates a QR code using 
 
 ✔ Beginner-friendly JavaScript code
 
-🖥️ Demo Screenshot
-
-(Add your screenshot here)
-
-![QR Code Generator Screenshot](your-image-link)
 
 📂 Project Structure
 /project-folder
